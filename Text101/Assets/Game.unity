@@ -276,9 +276,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Intensely\r\nadverb US \u200B  /\u026An\u02C8tens\xB7li/\r\n\u200B\r\nin
-    a strong or extreme way, or in a way that shows a lot of effort:\r\n\r\nintensely
-    personal songs\r\nHe lives every aspect of life intensely."
+  m_Text: 
 --- !u!222 &486186564
 CanvasRenderer:
   m_ObjectHideFlags: 0
